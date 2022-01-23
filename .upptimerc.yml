@@ -1,29 +1,43 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: dat-leth # Your GitHub organization or username, where this repository lives
+repo: up.unia.xyz # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Homepage
+    url: https://www.uni-augsburg.de
+  - name: Digicampus
+    url: https://digicampus.uni-augsburg.de
+  - name: VIBS
+    url: https://vibs.uni-augsburg.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces
+  - name: STUDIS
+    url: https://studiswebstud.zv.uni-augsburg.de/FN2SSS/
+  - name: Webmail
+    url: https://webmail.uni-augsburg.de/
+  - name: Kalender
+    url: https://mycal.rz.uni-augsburg.de/SOGo/
+  - name: Megastore
+    url: https://megastore.rz.uni-augsburg.de/fcgi/do
+  - name: Mediastore
+    url: https://mediastore.rz.uni-augsburg.de/fcgi/do
+  - name: WebAuth Login (Digicampus, STUDIS, ...)
+    url: https://websso.uni-augsburg.de/login
+  - name: SAML Login (Zoom, ...)
+    url: https://idp-local.rz.uni-augsburg.de/simplesaml/module.php/core/loginuserpass.php
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: up.unia.xyz
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: up.unia.xyz
+  introTitle: "**up.unia.xyz** zeigt den aktuellen Status und die Uptime verschiedener Web-Services der Universität Augsburg."
+  introMessage: Dies ist eine **inoffizielle** Status-Page. Allgemeine Wartungszeiträume sind montags, 18-19 Uhr, und dienstags, 6:30-7:30 Uhr. Bei Fragen oder Problemen, wendet Euch bitte an das [ZEBRA](https://www.uni-augsburg.de/de/organisation/einrichtungen/rz/kontakt/zebra/).
   navbar:
     - title: Status
       href: /
+    - title: Rechenzentrum
+      href: https://www.uni-augsburg.de/de/organisation/einrichtungen/rz/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
