@@ -58,19 +58,19 @@
     "url": "https://studiswebstud.zv.uni-augsburg.de/FN2SSS/",
     "icon": "https://favicons.githubusercontent.com/studiswebstud.zv.uni-augsburg.de",
     "slug": "studis",
-    "status": "down",
-    "uptime": "17.80%",
-    "uptimeDay": "17.80%",
-    "uptimeWeek": "17.80%",
-    "uptimeMonth": "17.80%",
-    "uptimeYear": "17.80%",
-    "time": 1554,
-    "timeDay": 1554,
-    "timeWeek": 1554,
-    "timeMonth": 1554,
-    "timeYear": 1554,
+    "status": "up",
+    "uptime": "0.08%",
+    "uptimeDay": "0.08%",
+    "uptimeWeek": "0.08%",
+    "uptimeMonth": "0.08%",
+    "uptimeYear": "0.08%",
+    "time": 1885,
+    "timeDay": 1885,
+    "timeWeek": 1885,
+    "timeMonth": 1885,
+    "timeYear": 1885,
     "dailyMinutesDown": {
-      "2022-01-23": 0
+      "2022-01-23": 262
     }
   },
   {
