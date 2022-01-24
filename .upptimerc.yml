@@ -33,7 +33,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: up.unia.xyz
   introTitle: "**up.unia.xyz** zeigt den aktuellen Status und die Uptime verschiedener Web-Services der Universität Augsburg."
-  introMessage: Dies ist eine **inoffizielle** Status-Page. Allgemeine Wartungszeiträume sind montags, 18-19 Uhr, und dienstags, 6:30-7:30 Uhr. Bei Fragen oder Problemen, wendet Euch bitte an das [ZEBRA](https://www.uni-augsburg.de/de/organisation/einrichtungen/rz/kontakt/zebra/).
+  introMessage: Dies ist eine **inoffizielle** Status-Page. Bei Fragen oder Problemen, sendet bitte eine E-Mail an den Service-Desk des Rechenzentrums ([service@rz.uni-augsburg.de](mailto:service@rz.uni-augsburg.de)).
   navbar:
     - title: Status
       href: /
