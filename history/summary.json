@@ -137,19 +137,19 @@
     "url": "https://mediastore.rz.uni-augsburg.de/fcgi/do",
     "icon": "https://favicons.githubusercontent.com/mediastore.rz.uni-augsburg.de",
     "slug": "mediastore",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 739,
-    "timeDay": 943,
-    "timeWeek": 722,
-    "timeMonth": 739,
-    "timeYear": 739,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 745,
+    "timeDay": 899,
+    "timeWeek": 738,
+    "timeMonth": 745,
+    "timeYear": 745,
     "dailyMinutesDown": {
-      "2022-02-07": 0
+      "2022-02-07": 6
     }
   },
   {
