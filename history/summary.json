@@ -65,18 +65,17 @@
     "icon": "https://favicons.githubusercontent.com/studiswebstud.zv.uni-augsburg.de",
     "slug": "studis",
     "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.44%",
+    "uptime": "99.46%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.46%",
     "time": 2188,
     "timeDay": 1731,
     "timeWeek": 1738,
     "timeMonth": 2180,
     "timeYear": 2188,
     "dailyMinutesDown": {
-      "2022-02-25": 6,
       "2022-01-23": 262
     }
   },
