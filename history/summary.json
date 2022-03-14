@@ -25,19 +25,19 @@
     "url": "https://digicampus.uni-augsburg.de",
     "icon": "https://favicons.githubusercontent.com/digicampus.uni-augsburg.de",
     "slug": "digicampus",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 688,
-    "timeDay": 558,
-    "timeWeek": 567,
-    "timeMonth": 649,
-    "timeYear": 688,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 691,
+    "timeDay": 717,
+    "timeWeek": 605,
+    "timeMonth": 657,
+    "timeYear": 691,
     "dailyMinutesDown": {
-      "2022-03-14": 0
+      "2022-03-14": 7
     }
   },
   {
