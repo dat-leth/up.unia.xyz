@@ -65,10 +65,10 @@
     "url": "https://studiswebstud.zv.uni-augsburg.de/FN2SSS/",
     "icon": "https://favicons.githubusercontent.com/studiswebstud.zv.uni-augsburg.de",
     "slug": "studis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
     "time": 2191,
@@ -77,6 +77,7 @@
     "timeMonth": 2130,
     "timeYear": 2191,
     "dailyMinutesDown": {
+      "2022-03-23": 1,
       "2022-01-23": 262
     }
   },
@@ -157,9 +158,9 @@
     "url": "https://websso.uni-augsburg.de/login",
     "icon": "https://favicons.githubusercontent.com/websso.uni-augsburg.de",
     "slug": "web-auth-login-digicampus-studis",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -168,7 +169,9 @@
     "timeWeek": 702,
     "timeMonth": 620,
     "timeYear": 649,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-23": 0
+    }
   },
   {
     "name": "SAML Login (Zoom, ...)",
