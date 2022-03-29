@@ -159,11 +159,11 @@
     "icon": "https://favicons.githubusercontent.com/websso.uni-augsburg.de",
     "slug": "web-auth-login-digicampus-studis",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.40%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "99.93%",
+    "uptimeYear": "99.94%",
     "time": 638,
     "timeDay": 429,
     "timeWeek": 526,
@@ -178,9 +178,9 @@
     "url": "https://idp-local.rz.uni-augsburg.de/simplesaml/module.php/core/loginuserpass.php",
     "icon": "https://favicons.githubusercontent.com/idp-local.rz.uni-augsburg.de",
     "slug": "saml-login-zoom",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -189,6 +189,8 @@
     "timeWeek": 627,
     "timeMonth": 667,
     "timeYear": 653,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-29": 0
+    }
   }
 ]
