@@ -141,9 +141,9 @@
     "url": "https://mediastore.rz.uni-augsburg.de/fcgi/do",
     "icon": "https://favicons.githubusercontent.com/mediastore.rz.uni-augsburg.de",
     "slug": "mediastore",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -152,7 +152,9 @@
     "timeWeek": 588,
     "timeMonth": 658,
     "timeYear": 685,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-05": 0
+    }
   },
   {
     "name": "WebAuth Login (Digicampus, STUDIS, ...)",
