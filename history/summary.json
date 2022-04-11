@@ -179,9 +179,9 @@
     "url": "https://idp-local.rz.uni-augsburg.de/simplesaml/module.php/core/loginuserpass.php",
     "icon": "https://favicons.githubusercontent.com/idp-local.rz.uni-augsburg.de",
     "slug": "saml-login-zoom",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -190,6 +190,8 @@
     "timeWeek": 654,
     "timeMonth": 661,
     "timeYear": 653,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-11": 0
+    }
   }
 ]
